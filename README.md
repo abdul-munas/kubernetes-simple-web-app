@@ -1,4 +1,4 @@
-# Kubernetes Sample Web App
+# Kubernetes Simple Web App
 
 This project demonstrates the deployment of a simple static web application in a AWS EKS environment. The solution includes Infrastructure as Code (IaC), Kubernetes manifests, and monitoring with Prometheus and Grafana.
 
